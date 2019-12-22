@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pet_Details</string>
+    <string name="dog">Dog</string>
+    <string name="ok">OK</string>
+    <string name="FlipButton">Flip</string>
+    <string name="DogDescription">This is a dog</string>
+    <string name="CatDescription">This is a cat</string>
+    <string name="BatDescription">This is a bat</string>
+    <string name="NoneDescription">This is nothing</string>
+    <string name="Nothing">This is nothing</string>
+    <string name="Cat">Cat</string>
+    <string name="bat">Bat</string>
+    <string name="sheep">Sheep</string>
+</resources>
